@@ -5,4 +5,5 @@ bir kitap mağaza uygulaması oluşturdum.Uygulamayı kodlama aşamasında tek b
 
 ## Book store app videos
 
+https://github.com/mehmetee/BookstoreApp/assets/44464636/59a6fedc-0c91-4cae-accc-492ba7fb57db
 
